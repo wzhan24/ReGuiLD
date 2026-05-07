@@ -1,5 +1,5 @@
-# ReGuiLD
-Code base for ReGuiLD
+# ReGDiff
+Code base for ReGDiff
 
 ## Implementation Details
 ### Model Architecture
